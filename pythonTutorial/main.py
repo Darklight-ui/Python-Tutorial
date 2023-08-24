@@ -13,9 +13,9 @@ else:
     print('😎')
 
 
-	# Pythonic
-	score = int(input("what is the student score: "))
-	if 60 <= score >= 75:
-		print("Fail")
-	else:
-		print("Pass")
+# Pythonic
+score = int(input("what is the student score: "))
+if 60 >= score <= 75:
+    print("Fail")
+else:
+    print("Pass")
