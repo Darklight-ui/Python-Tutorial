@@ -19,3 +19,6 @@ if 60 >= score <= 75:
     print("Fail")
 else:
     print("Pass")
+
+# Merge Testing
+print("Merging")
